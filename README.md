@@ -7,18 +7,9 @@
 ##### now
 -->
 - 🚩 playing CTFs with my team [Th3_Order_Of_th3_pH0en1x](https://ctftime.org/team/149880).
-- 👾 trying to improve my vim skills.
-- 💻 looking to collaborate with other passionate individuals.
+- 🧰 I use daily:  `python`, `docker`, `bash`, `javascript`
+- ⚔️ learning about **web** exploitation
 
-<!--
-##### bio
-
-- 🏢 I'm currently working @ ****
-- 🔓 Developed the CTF @ BSides Athens 2022.
-- 🧰 I use daily:  `python`, `docker`, `bash`
-- ⚔️ learning about **web** hacking
-- ⚡ fun fact: I love art (drawing, painting, playing music, singing, etc.)
--->
 ##### badges
 
 ![HTB Badge](http://www.hackthebox.eu/badge/image/233498)
