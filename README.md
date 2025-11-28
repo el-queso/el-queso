@@ -7,7 +7,6 @@
 ##### now
 -->
 - 🚩 playing CTFs with my team [Th3_Order_Of_th3_pH0en1x](https://ctftime.org/team/149880).
-- 🧰 I use daily:  `python`, `docker`, `bash`, `javascript`
 - ⚔️ learning about **web** exploitation
 
 ##### badges
